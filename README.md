@@ -15,3 +15,5 @@ this verification output to process_info.txt
   Answer : kill 7815   
 ## 7- Verify the process is no longer running. 
   Answer :to Verify It's terminated : ps -p 5421
+
+

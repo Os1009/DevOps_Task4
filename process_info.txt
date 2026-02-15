@@ -1,0 +1,6 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+u1          7815    6788 99 19:31 pts/1    00:13:37 cat /dev/zero
+    PID  NI CMD
+   7815  10 cat /dev/zero
+
+
